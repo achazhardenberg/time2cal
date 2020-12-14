@@ -1,0 +1,10 @@
+Package: time2cal
+Type: Package
+Title: Easily transfer your timetable to your calendar
+Version: 0.1.0
+Author: Achaz von Hardenberg
+Maintainer: Achaz von Hardenberg <a.vonhardenberg@chester.ac.uk>
+Description: The time2cal function parses the University of Chester timetable copy-pasted from the UoC portal (all events view) and transforms it into a .ics file which can be imported in outlook or google calendar.
+License: AGPL-3
+Encoding: UTF-8
+LazyData: true
